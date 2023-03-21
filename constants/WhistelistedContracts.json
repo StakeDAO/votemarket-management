@@ -1,0 +1,46 @@
+[
+    {
+        "name" : "Alchemix",
+        "address" : "0x3216d2a52f0094aa860ca090bc5c335de36e6273"
+    },
+    {
+        "name" : "FRAX",
+        "address" : "0xB1748C79709f4Ba2Dd82834B8c82D4a505003f27"
+    },
+    {
+        "name" : "Angle",
+        "address" : "0xdC4e6DFe07EFCa50a197DF15D9200883eF4Eb1c8"
+    },
+    {
+        "name" : "Stake DAO",
+        "address" : "0xF930EBBd05eF8b25B1797b9b2109DDC9B0d43063"
+    },
+    {
+        "name" : "Tokemak",
+        "address" : "0x8b4334d4812C530574Bd4F2763FcD22dE94A969B"
+    },
+    {
+        "name" : "CELO",
+        "address" : "0x0a25366c4A76732839F3F9A63093E53423B647a6"
+    },
+    {
+        "name" : "APWine",
+        "address" : "0xDbbfc051D200438dd5847b093B22484B842de9E7"
+    },
+    {
+        "name" : "Stargate",
+        "address" : "0x65bb797c2B9830d891D87288F029ed8dACc19705"
+    },
+    {
+        "name" : "SILO",
+        "address" : "0xdff2aea378e41632e45306a6de26a7e0fd93ab07"
+    },
+    {
+        "name" : "Inverse DAO",
+        "address" : "0x9D5Df30F475CEA915b1ed4C0CCa59255C897b61B"
+    },
+    {
+        "name": "MENTO",
+        "address": "0xaB125CcB7660b717fc3A1df5d04Ac4cFC3558d8A"
+    }
+]
