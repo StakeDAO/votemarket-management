@@ -42,5 +42,13 @@
     {
         "name": "MENTO",
         "address": "0xaB125CcB7660b717fc3A1df5d04Ac4cFC3558d8A"
+    },
+    {
+        "name": "Reserve",
+        "address": "0xc6625129c9df3314a4dd604845488f4ba62f9db8"
+    },
+    {
+        "name": "Temple",
+        "address": "0x6feb7be522db641a5c0f246924d8a92cf3218692"
     }
 ]
