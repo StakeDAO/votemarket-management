@@ -1,6 +1,8 @@
-[
-  {
-    "name": "CRV",
-    "depositor": "0xc1e3Ca8A3921719bE0aE3690A0e036feB4f69191",
-  }
-]
+{
+  "lockers": [
+    {
+      "name": "CRV",
+      "depositor": "0xc1e3Ca8A3921719bE0aE3690A0e036feB4f69191",
+    }
+  ] 
+}
