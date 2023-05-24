@@ -50,5 +50,9 @@
     {
         "name": "Temple",
         "address": "0x6feb7be522db641a5c0f246924d8a92cf3218692"
+    },
+    {
+        "name": "Llamas",
+        "address": "0x73eb240a06f0e0747c698a219462059be6aaccc8"
     }
 ]
