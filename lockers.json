@@ -1,42 +1,34 @@
 [
   {
     "name": "CRV",
-    "depositor": "0xc1e3Ca8A3921719bE0aE3690A0e036feB4f69191",
-    "isEligibleToBribe": true
+    "depositor": "0xc1e3Ca8A3921719bE0aE3690A0e036feB4f69191"
   },
   {
     "name": "YFI",
-    "depositor": "0x941E716833734C7CaFafC38F6bb8FEc1858201E0",
-    "isEligibleToBribe": false
+    "depositor": "0x941E716833734C7CaFafC38F6bb8FEc1858201E0"
   },
   {
     "name": "ANGLE",
-    "depositor": "0x8A97e8B3389D431182aC67c0DF7D46FF8DCE7121",
-    "isEligibleToBribe": true
+    "depositor": "0x8A97e8B3389D431182aC67c0DF7D46FF8DCE7121"
   },
   {
     "name": "FXS",
-    "depositor": "0xFaF3740167B866b571465B063c6B3A71Ba9b6285",
-    "isEligibleToBribe": true
+    "depositor": "0xFaF3740167B866b571465B063c6B3A71Ba9b6285"
   },
   {
     "name": "FPIS",
-    "depositor": "0x56D27f6BA42Ec4C4E37dae0561e8E872ABb196Ad",
-    "isEligibleToBribe": false
+    "depositor": "0x56D27f6BA42Ec4C4E37dae0561e8E872ABb196Ad"
   },
   {
     "name": "BAL",
-    "depositor": "0x3e0d44542972859de3CAdaF856B1a4FD351B4D2E",
-    "isEligibleToBribe": true
+    "depositor": "0x3e0d44542972859de3CAdaF856B1a4FD351B4D2E"
   },
   {
     "name": "APW",
-    "depositor": "0xFe928ca6a9C0cdf658a26A374b7373B9D6CefBCf",
-    "isEligibleToBribe": false
+    "depositor": "0xFe928ca6a9C0cdf658a26A374b7373B9D6CefBCf"
   },
   {
     "name": "BPT",
-    "depositor": "0x219f7496fbD30e1F21A20613F9372d608A279993",
-    "isEligibleToBribe": false
+    "depositor": "0x219f7496fbD30e1F21A20613F9372d608A279993"
   }
 ]
