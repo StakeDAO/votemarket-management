@@ -54,5 +54,9 @@
     {
         "name": "Llamas",
         "address": "0x73eb240a06f0e0747c698a219462059be6aaccc8"
+    },
+    {
+        "name": "BAO Finance",
+        "address": "0x3dFc49e5112005179Da613BdE5973229082dAc35"
     }
 ]
