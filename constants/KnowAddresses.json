@@ -1,6 +1,14 @@
 [
     {
         "address": "0x989aeb4d175e16225e39e87d0d97a3360524ad80",
-        "name": "Convex"
+        "name": "Convex veCRV"
+    },
+    {
+        "address": "0x59cfcd384746ec3035299d90782be065e466800b",
+        "name": "Convex veFXS"
+    },
+    {
+        "address": "0xcd3a267de09196c48bbb1d9e842d7d7645ce448f",
+        "name": "Stake DAO veFXS"
     }
 ]
