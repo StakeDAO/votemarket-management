@@ -10,5 +10,145 @@
     {
         "address": "0xcd3a267de09196c48bbb1d9e842d7d7645ce448f",
         "name": "Stake DAO veFXS"
+    },
+    {
+        "address": "0xf147b8125d2ef93fb6965db97d6746952a133934",
+        "name": "Yearn veCRV"
+    },
+    {
+        "address": "0x7a16ff8270133f063aab6c9977183d9e72835428",
+        "name": "mitchwill"
+    },
+    {
+        "address": "0x78ec75e69a5f2150c1095e5feffc1fe17362acc0",
+        "name": "Pitch veFXS"
+    },
+    {
+        "address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6",
+        "name": "Stake DAO veCRV"
+    },
+    {
+        "address": "0x88e863d4572d2dae27db81e98837a9dbeb0e7a12",
+        "name": "fraximaxi.eth"
+    },
+    {
+        "address": "0xaf52695e1bb01a16d33d7194c28c42b10e0dbec2",
+        "name": "Aura"
+    },
+    {
+        "address": "0x9cc56fa7734da21ac88f6a816af10c5b898596ce",
+        "name": "Tetu"
+    },
+    {
+        "address": "0xea79d1a83da6db43a85942767c389fe0acf336a5",
+        "name": "Stake DAO veBAL"
+    },
+    {
+        "address": "0x36cc7b13029b5dee4034745fb4f24034f3f2ffc6",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x8a8743afc23769d5b27fb22af510da3147bb9a55",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x9e9f535da358bf4f9cdc10a3d690dcf981956f68",
+        "name": "Humpy"
+    },
+    {
+        "address": "0xc407e861f5a16256534b0c92fdd8220a35831840",
+        "name": "Humpy"
+    },
+    {
+        "address": "0xc0a893145ad461af44241a7db5bb99b8998e7d2c",
+        "name": "Humpy"
+    },
+    {
+        "address": "0xae0baf66e8f5bb87a6fd54066e469cdfe93212ec",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x014e61311e4dd2364cf6c0868c9978c5887deca8",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x1e7267fa2628d66538822fc44f0edb62b07272a4",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x8b781a032c0ff967d2786a66afb1dbd5128fc382",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x5f547f19e5ad75bc19196d2f0472a2f4522fefd6",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x42d1f0e3e5461e368f24a29f68b212c1f15036a5",
+        "name": "Humpy"
+    },
+    {
+        "address": "0xba55e4e6fca6abd74071516d0784aced07adef47",
+        "name": "Humpy"
+    },
+    {
+        "address": "0xd23da72ee782227074851e1090bff19f6b15e978",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x79ff36919d24f004d68428a46b9cb08640c0b23b",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x9e38d938e909e15c155e35fc2dbb9008a1d019af",
+        "name": "Humpy"
+    },
+    {
+        "address": "0xe09697e1e476dce90b1199b0c5aa73bd33589a60",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x50ecfcc005a10537ffacf02466690a0d00145e47",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x90be067d924d86d4e2cfbdf7b1698a1f665cb61b",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x4086e3e1e99a563989a9390facff553a4f29b6ee",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x2b67a3c0b90f6ae4394210692f69968d02970126",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x6e139b850f67bcdfd4191f40fd8d55eed1edb191",
+        "name": "Humpy"
+    },
+    {
+        "address": "0xc4dc891d5b5171f789829d6050d5eb64c447e0fe",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x5e1dfa4892095400f374c78320653d338d0cec8b",
+        "name": "Humpy"
+    },
+    {
+        "address": "0xfa2d501dea12306281b9fbccc93bcbbe38ef0a4e",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x45ec6a657ad37845dc1d2c3ac653721d3037bf41",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x11eef043a0908f209ce53ac289a0fec2e82ce45d",
+        "name": "Humpy"
+    },
+    {
+        "address": "0x0a7b24cca8e5b9379535649493fee3c2b0f61dc5",
+        "name": "Humpy"
     }
 ]
