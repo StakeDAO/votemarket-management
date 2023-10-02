@@ -3,7 +3,7 @@ run-name: ${{ github.actor }} 🚀
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 0 * * *'
 
 env:
   AGNOSTIC_API_KEY: ${{ secrets.AGNOSTIC_API_KEY }}
