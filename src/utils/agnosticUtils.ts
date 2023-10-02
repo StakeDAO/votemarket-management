@@ -14,7 +14,7 @@ export const agnosticFetch = async (query: string): Promise<any> => {
         return response.data.rows;
     }
     catch (e) {
-        console.error(e);
+        //console.error(e);
         return [];
     }
 }
