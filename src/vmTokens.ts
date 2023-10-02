@@ -31,8 +31,6 @@ const CONTRACTS = [
 ];
 
 const main = async () => {
-    console.log(process);
-    console.log(process.env);
     const rewardTokensResp = (await agnosticFetch(`
     with 
     (
