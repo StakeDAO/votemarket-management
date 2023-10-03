@@ -2,128 +2,128 @@
   {
       "name" : "Alchemix",
       "website" : "https://alchemix.fi/",
-      "protocolDescription": 'Alchemix is the ultimate DeFi ecosystem, empowering you with Self-Repaying, interest-free, and non-liquidating loans, providing a secure and trusted environment for your financial assets.',
+      "protocolDescription": "Alchemix is the ultimate DeFi ecosystem, empowering you with Self-Repaying, interest-free, and non-liquidating loans, providing a secure and trusted environment for your financial assets.",
       "logoUrl" : "https://beta.stakedao.org/assets/alchemix.svg",
-      "rgb" : '245, 197, 159',
+      "rgb" : "245, 197, 159",
       "address" : "0x3216d2a52f0094aa860ca090bc5c335de36e6273"
   },
   {
       "name" : "FRAX",
-      "website": 'https://frax.finance/',
-      "protocolDescription": 'The Frax Protocol issues innovative, decentralized stablecoins and contains subprotocols to support them.',
+      "website": "https://frax.finance/",
+      "protocolDescription": "The Frax Protocol issues innovative, decentralized stablecoins and contains subprotocols to support them.",
       "logoUrl" : "https://beta.stakedao.org/assets/frax.svg",
-      "rgb" : '0, 0, 0',
+      "rgb" : "0, 0, 0",
       "address" : "0xB1748C79709f4Ba2Dd82834B8c82D4a505003f27"
   },
   {
       "name" : "Angle",
-      "website": 'https://angle.money/',
-      "protocolDescription": 'Angle is a decentralized, capital efficient and over-collateralized stablecoin protocol composed of smart contracts running on open blockchains.',
+      "website": "https://angle.money/",
+      "protocolDescription": "Angle is a decentralized, capital efficient and over-collateralized stablecoin protocol composed of smart contracts running on open blockchains.",
       "logoUrl" : "https://beta.stakedao.org/assets/angle.svg",
-      "rgb": '249, 145, 144',
+      "rgb": "249, 145, 144",
       "address" : "0xdC4e6DFe07EFCa50a197DF15D9200883eF4Eb1c8"
   },
   {
       "name" : "Stake DAO",
-      "protocolDescription": '',
+      "protocolDescription": "",
       "logoUrl" : "https://beta.stakedao.org/assets/sdt.svg",
-      "rgb" : '0, 0, 0',
+      "rgb" : "0, 0, 0",
       "address" : "0xF930EBBd05eF8b25B1797b9b2109DDC9B0d43063"
   },
   {
       "name" : "Tokemak",
       "website" : "https://www.tokemak.xyz/",
-      "protocolDescription": 'Tokemak v2 is comprised of both a dynamic LP optimizer and a transparent liquidity order book, facilitating a more symbiotic relationship between LPs and liquidity seekers.',
+      "protocolDescription": "Tokemak v2 is comprised of both a dynamic LP optimizer and a transparent liquidity order book, facilitating a more symbiotic relationship between LPs and liquidity seekers.",
       "logoUrl" : "https://beta.stakedao.org/assets/tokemak.svg",
-      "rgb" : '0, 0, 0',
+      "rgb" : "0, 0, 0",
       "address" : "0x8b4334d4812C530574Bd4F2763FcD22dE94A969B"
   },
   {
       "name" : "CELO",
       "website" : "https://celo.org/",
-      "protocolDescription": 'Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.',
+      "protocolDescription": "Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.",
       "logoUrl" : "https://beta.stakedao.org/assets/celo.svg",
-      "rgb" : '252, 255, 82',
+      "rgb" : "252, 255, 82",
       "address" : "0x0a25366c4A76732839F3F9A63093E53423B647a6"
   },
   {
       "name" : "APWine",
-      "website": 'https://apwine.fi/',
-      "protocolDescription": 'APWine is the first protocol for future yield tokenisation.',
+      "website": "https://apwine.fi/",
+      "protocolDescription": "APWine is the first protocol for future yield tokenisation.",
       "logoUrl" : "https://beta.stakedao.org/assets/apw.svg",
-      "rgb": '28, 28, 52',
+      "rgb": "28, 28, 52",
       "address" : "0xDbbfc051D200438dd5847b093B22484B842de9E7"
   },
   {
       "name" : "Stargate",
       "website" : "https://stargate.finance/",
-      "protocolDescription": 'Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.',
+      "protocolDescription": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.",
       "logoUrl" : "https://beta.stakedao.org/assets/stargate.svg",
-      "rgb" : '0, 0, 0',
+      "rgb" : "0, 0, 0",
       "address" : "0x65bb797c2B9830d891D87288F029ed8dACc19705"
   },
   {
       "name" : "SILO",
       "website" : "https://www.silo.finance/",
-      "protocolDescription": 'Silo is a non-custodial lending protocol to borrow any crypto asset with another.',
+      "protocolDescription": "Silo is a non-custodial lending protocol to borrow any crypto asset with another.",
       "logoUrl" : "https://beta.stakedao.org/assets/silo.svg",
-      "rgb" : '0, 0, 0',
+      "rgb" : "0, 0, 0",
       "address" : "0xdff2aea378e41632e45306a6de26a7e0fd93ab07"
   },
   {
       "name" : "Inverse DAO",
       "website" : "https://www.inverse.finance/",
-      "protocolDescription": 'Inverse Finance is a decentralized autonomous organization that develops and manages the FiRM fixed rate lending protocol and DOLA, a debt-backed decentralized stablecoin.',
+      "protocolDescription": "Inverse Finance is a decentralized autonomous organization that develops and manages the FiRM fixed rate lending protocol and DOLA, a debt-backed decentralized stablecoin.",
       "logoUrl" : "https://beta.stakedao.org/assets/inverse.svg",
-      "rgb" : '24, 32, 93',
+      "rgb" : "24, 32, 93",
       "address" : "0x9D5Df30F475CEA915b1ed4C0CCa59255C897b61B"
   },
   {
       "name": "MENTO",
       "website" : "https://mento.finance/",
-      "protocolDescription": 'Celo has stable value assets like the Celo Dollar (cUSD). Mento keeps the value of those tokens stable.',
+      "protocolDescription": "Celo has stable value assets like the Celo Dollar (cUSD). Mento keeps the value of those tokens stable.",
       "logoUrl" : "https://beta.stakedao.org/assets/mento.svg",
-      "rgb" : '134, 239, 172',
+      "rgb" : "134, 239, 172",
       "address": "0xaB125CcB7660b717fc3A1df5d04Ac4cFC3558d8A"
   },
   {
       "name": "Reserve",
       "website" : "https://reserve.org/",
-      "protocolDescription": 'Reserve approach is to bundle stocks, bonds, gold, real estate and more into an index, and use that as money',
+      "protocolDescription": "Reserve approach is to bundle stocks, bonds, gold, real estate and more into an index, and use that as money",
       "logoUrl" : "https://beta.stakedao.org/assets/reserve.svg",
-      "rgb" : '1, 81, 175',
+      "rgb" : "1, 81, 175",
       "address": "0xc6625129c9df3314a4dd604845488f4ba62f9db8"
   },
   {
       "name": "Temple",
       "website": "https://templedao.link/",
-      "protocolDescription": 'A wrapped treasury token with steady price growth in all conditions.',
+      "protocolDescription": "A wrapped treasury token with steady price growth in all conditions.",
       "logoUrl" : "https://beta.stakedao.org/assets/temple.svg",
-      "rgb" : '189, 123, 79',
+      "rgb" : "189, 123, 79",
       "address": "0x6feb7be522db641a5c0f246924d8a92cf3218692"
   },
   {
       "name": "Llamas",
       "website" : "https://linktr.ee/thellamas",
-      "protocolDescription": 'The LLamas is a yield-flow and digital reputation experiment designed to drive positive-sum action across the Curve ecosystem.',
+      "protocolDescription": "The LLamas is a yield-flow and digital reputation experiment designed to drive positive-sum action across the Curve ecosystem.",
       "logoUrl" : "https://beta.stakedao.org/assets/llamas.svg",
-      "rgb" : '234, 151, 53',
+      "rgb" : "234, 151, 53",
       "address": "0x73eb240a06f0e0747c698a219462059be6aaccc8"
   },
   {
       "name": "BAO Finance",
       "website": "https://www.bao.finance/",
-      "protocolDescription": 'Bao Finance is a protocol that adds features to existing DeFi systems.',
+      "protocolDescription": "Bao Finance is a protocol that adds features to existing DeFi systems.",
       "logoUrl" : "https://beta.stakedao.org/assets/bao.svg",
-      "rgb" : '80, 37, 28',
+      "rgb" : "80, 37, 28",
       "address": "0x3dFc49e5112005179Da613BdE5973229082dAc35"
   },
   {
       "name": "Convergence",
       "website" : "conv.finance",
-      "protocolDescription": 'Democratize Investment by Making Private Markets Public.',
+      "protocolDescription": "Democratize Investment by Making Private Markets Public.",
       "logoUrl" : "https://beta.stakedao.org/assets/convergence.svg",
-      "rgb" : '235, 87, 87',
+      "rgb" : "235, 87, 87",
       "address": "0xd2c46b4c28f4B7976d9f87687863c46Bb2f71Dbb"
   }
 ]
