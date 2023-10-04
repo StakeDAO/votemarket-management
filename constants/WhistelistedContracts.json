@@ -120,10 +120,10 @@
   },
   {
     "name": "Convergence",
-    "website": "https://conv.finance/",
-    "protocolDescription": "Democratize Investment by Making Private Markets Public.",
+    "website": "https://cvg.finance/",
+    "protocolDescription": "Convergence is an agnostic “Convex-like” aggregator that gathers various mechanisms to incentivize governance participation while optimizing underlying yields and the functioning of aggregated protocols.",
     "logoUrl": "https://beta.stakedao.org/assets/conv.svg",
-    "rgb": "235, 87, 87",
+    "rgb": "0, 0, 252",
     "address": "0xd2c46b4c28f4B7976d9f87687863c46Bb2f71Dbb"
   }
 ]
