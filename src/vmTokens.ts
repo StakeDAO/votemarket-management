@@ -19,7 +19,7 @@ const abi = parseAbi([
     'function symbol() view returns (string)',
     'function name() view returns (string)',
     'function decimals() view returns (uint8)',
-  ]);
+]);
 
 const CONTRACTS = [
     "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
@@ -43,7 +43,7 @@ const main = async () => {
         address IN bribe_contracts and
         signature = 'BountyCreated(uint256,address,address,address,uint8,uint256,uint256,uint256,bool)'
     `))
-    .flat();
+        .flat();
 
     const contracts = rewardTokensResp.map((rewardToken: string) => {
         return [
@@ -64,22 +64,44 @@ const main = async () => {
             }
         ]
     })
-    .flat();
+        .flat();
 
-    const results = await client.multicall({contracts});
-    
+    const results = await client.multicall({ contracts });
     const data = rewardTokensResp.map((address: string) => {
-        const symbol = results.shift()?.result as string;
-        const name = results.shift()?.result as string;
-        const decimals = results.shift()?.result as number;
+        let symbol = "";
+        let name = "";
+        let decimals = 0;
+
+        let data = results.shift();
+        if (data && data.status === 'failure') {
+            return null;
+        }
+        symbol = data?.result as string;
+
+        data = results.shift();
+        if (data && data.status === 'failure') {
+            return null;
+        }
+        name = data?.result as string;
+
+        data = results.shift();
+        if (data && data.status === 'failure') {
+            return null;
+        }
+        decimals = data?.result as number;
 
         return {
-            symbol, 
+            symbol,
             name,
             decimals,
             address
         }
-    });
+    })
+        .filter((res: any) => res !== null);
+
+    if (data.length !== rewardTokensResp.length) {
+        return;
+    }
 
     fs.writeFileSync("./data/vmTokens.json", JSON.stringify(data));
 };
