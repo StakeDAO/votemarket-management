@@ -94,7 +94,8 @@ const main = async () => {
             symbol,
             name,
             decimals,
-            address
+            address,
+            chainId: 1,
         }
     })
         .filter((res: any) => res !== null);
