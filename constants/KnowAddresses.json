@@ -150,5 +150,9 @@
     {
         "address": "0x0a7b24cca8e5b9379535649493fee3c2b0f61dc5",
         "name": "Humpy"
+    },
+    {
+        "address": "0x1e6f87a9ddf744af31157d8daa1e3025648d042d",
+        "name": "Stake DAO veCAKE"
     }
 ]
