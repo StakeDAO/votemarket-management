@@ -154,5 +154,13 @@
     {
         "address": "0x1e6f87a9ddf744af31157d8daa1e3025648d042d",
         "name": "Stake DAO veCAKE"
+    },
+    {
+        "address": "0xb47b790076050423888cde9EBB2D5Cb86544F327",
+        "name": "Cakepie"
+    },
+    {
+        "address": "0xF977814e90dA44bFA03b6295A0616a897441aceC",
+        "name": "Binance"
     }
 ]
