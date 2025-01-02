@@ -5,9 +5,6 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
-env:
-  AGNOSTIC_API_KEY: ${{ secrets.AGNOSTIC_API_KEY }}
-
 jobs:
   build: # make sure build/ci work properly
     runs-on: ubuntu-latest
